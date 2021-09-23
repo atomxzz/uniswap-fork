@@ -1,0 +1,37 @@
+.xs-secondary-container {
+    background-color: #121212;
+    color: #cccccc;
+    padding: 3% 2% 0 2%;
+    width: 100%;
+    padding-bottom: 5%;
+    height: 100%;
+}
+
+.sm-secondary-container {
+    background-color: #121212;
+    color: #cccccc;
+    padding: 3% 15% 0 15%;
+    width: 100%;
+    padding-bottom: 5%;
+    height: 100%;
+}
+
+.secondary-container {
+    background-color: #121212;
+    color: #cccccc;
+    padding: 3% 33% 0 33%;
+    width: 100%;
+    padding-bottom: 5%;
+    height: 100%;
+    font-size: 0.8em;
+}
+
+.lg-secondary-container {
+    background-color: #121212;
+    color: #cccccc;
+    padding: 3% 38% 0 38%;
+    width: 100%;
+    padding-bottom: 5%;
+    height: 100%;
+    font-size: 0.8em;
+}
